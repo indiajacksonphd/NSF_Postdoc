@@ -1,4 +1,4 @@
-# National Science Foundation Atmospheric & Geospace Sciences Postdoctoral Research: FITS vs ASDF for Solar Flare Analysis
+# NSF AGS Postdoctoral Research: FITS vs ASDF for Solar Flare Analysis
 
 This repository contains an in-progress, open-access data documentation and metadata for my NSF-funded postdoctoral research. All files are organized to support the development, testing, and comparison of the ASDF format with traditional FITS for solar physics and machine learning workflows.
 
