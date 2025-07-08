@@ -7,4 +7,4 @@ This folder contains preprocessed label files and supporting metadata used durin
 - `image_labels.csv` — Labeled image records used in classification (flare vs. non-flare), including time-aligned metadata.
 - `image_labels.txt` — Text version of the labeled image list, used for quick human-readable review.
 - `sampling_logs/` — Logs of the random sampling process for flare vs. non-flare image balance.
-- `all_downloadable_files/` — Clean markdown files containing clickable URLs for all hosted FITS, HEK, PNG, and (optionally) ASDF files stored on AWS S3.
+- `all_downloadable_files/` — Clean markdown files containing clickable URLs for all hosted FITS, HEK, PNG, and ASDF files stored on AWS S3.
