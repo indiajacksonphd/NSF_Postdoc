@@ -2,7 +2,7 @@
 
 This repository contains an in-progress, open-access data documentation and metadata for my NSF-funded postdoctoral research. All files are organized to support the development, testing, and comparison of the ASDF format with traditional FITS for solar physics and machine learning workflows.
 
-A series of [Jupyter notebooks](#-jupyter-notebooks) is included to demonstrate the complete solar flare data pipeline, from NOAA event selection to structured ASDF generation.
+A series of [Jupyter notebooks](#-jupyter_notebooks) is included to demonstrate the complete solar flare data pipeline, from NOAA event selection to structured ASDF generation.
 
 ## Data Access
 
