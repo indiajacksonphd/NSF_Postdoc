@@ -8,12 +8,12 @@ A series of [Jupyter notebooks](jupyter_notebooks/) is included to demonstrate t
 
 Use the links below to explore publicly hosted data on AWS S3:
 
-- [Raw FITS Links](data_selection/fits/raw/raw_links.md)
-- [FITS Header Links](data_selection/fits/header/header_links.md)
-- [FITS Data (.npy only)](data_selection/fits/data/data_links.md)
-- [HEK Metadata](data_selection/hek/hek_links.md)
-- [Images (.png only)](data_selection/images/image_links.md)
-- [ASDF Files](data_selection/asdf/asdf_links.md) 
+- [Raw FITS Links](/data_selection/all_downloadable_files/fits_links.md)
+- [FITS Header Links](/data_selection/all_downloadable_files/header_links.md)
+- [FITS Data (.npy only)](/data_selection/all_downloadable_files/data_links.md)
+- [HEK Metadata](/data_selection/all_downloadable_files//hek_links.md)
+- [Images (.png only)](/data_selection/all_downloadable_files/image_links.md)
+- [ASDF Files](/data_selection/all_downloadable_files/asdf_links.md) 
 
 ## About the Project
 
