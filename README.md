@@ -12,8 +12,8 @@ Use the links below to explore publicly hosted data on AWS S3:
 - [FITS Header Links](data_selection/fits/header/header_links.md)
 - [FITS Data (.npy only)](data_selection/fits/data/data_links.md)
 - [HEK Metadata](data_selection/hek/hek_links.md)
-- [Image Cutouts (.png only)](data_selection/images/image_links.md)
-<!-- - [ASDF Files](data_selection/asdf/asdf_links.md) -->
+- [Images (.png only)](data_selection/images/image_links.md)
+- [ASDF Files](data_selection/asdf/asdf_links.md) 
 
 ## About the Project
 
